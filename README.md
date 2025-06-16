@@ -7,8 +7,9 @@ This capstone project presents an **AI-powered solution** to predict household e
 
 ## 🚀 Live App
 
-👉 [Click here to try the app](https://your-streamlit-app-link.com)  
-> _Note: Replace the link above with your actual deployed app URL._
+👉 [Click here to try the app](https://aibasedenergyusagepredictionsystem-devanshusawarkar.streamlit.app/)  
+
+![image_1](https://github.com/user-attachments/assets/2b24ca47-5cb9-45e5-b476-795e36d08d57)
 
 ---
 
